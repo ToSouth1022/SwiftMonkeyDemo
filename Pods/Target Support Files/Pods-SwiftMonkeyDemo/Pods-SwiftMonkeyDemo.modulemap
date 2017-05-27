@@ -1,0 +1,6 @@
+framework module Pods_SwiftMonkeyDemo {
+  umbrella header "Pods-SwiftMonkeyDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
